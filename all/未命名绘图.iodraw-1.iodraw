@@ -19,14 +19,20 @@
         <mxCell id="SjUl70fXbeDiH8AiqSYa-5" value="注册页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="150" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SjUl70fXbeDiH8AiqSYa-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="SjUl70fXbeDiH8AiqSYa-5">
+        <mxCell id="SjUl70fXbeDiH8AiqSYa-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="SjUl70fXbeDiH8AiqSYa-9" target="SjUl70fXbeDiH8AiqSYa-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="325" y="580" as="sourcePoint" />
             <mxPoint x="380" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="SjUl70fXbeDiH8AiqSYa-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="SjUl70fXbeDiH8AiqSYa-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="325" y="580" as="sourcePoint" />
+            <mxPoint x="325" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="SjUl70fXbeDiH8AiqSYa-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="230" width="30" height="120" as="geometry" />
+          <mxGeometry x="315" y="230" width="20" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
