@@ -40,10 +40,11 @@
             <mxPoint x="310" y="253" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SjUl70fXbeDiH8AiqSYa-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.073;exitY=0.176;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="SjUl70fXbeDiH8AiqSYa-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="106" y="310" as="sourcePoint" />
-            <mxPoint x="315" y="310" as="targetPoint" />
+            <mxPoint x="310" y="330" as="sourcePoint" />
+            <mxPoint x="106" y="330" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
