@@ -16,8 +16,8 @@
         <mxCell id="SjUl70fXbeDiH8AiqSYa-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="230" width="20" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="SjUl70fXbeDiH8AiqSYa-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="120" width="120" height="60" as="geometry" />
+        <mxCell id="SjUl70fXbeDiH8AiqSYa-5" value="注册页面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="150" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
