@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-tGSpPFm6M4wDNalMLa1-1" value="结果 (Effects)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="310.5" y="486" width="819" height="99" as="geometry" />
+          <mxGeometry x="250" y="486" width="879.5" height="99" as="geometry" />
         </mxCell>
         <mxCell id="-tGSpPFm6M4wDNalMLa1-2" value="中间节点 (Intermediate)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="230" y="234" width="631" height="99" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="944" y="511" width="152" height="49" as="geometry" />
         </mxCell>
         <mxCell id="-tGSpPFm6M4wDNalMLa1-14" value="E4: 退还5角" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="347" y="511" width="144" height="49" as="geometry" />
+          <mxGeometry x="305" y="520" width="144" height="49" as="geometry" />
         </mxCell>
         <mxCell id="-tGSpPFm6M4wDNalMLa1-15" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="587" y="406" width="60" height="30" as="geometry" />
