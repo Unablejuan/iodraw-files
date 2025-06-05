@@ -270,10 +270,10 @@
           <mxGeometry x="610.5" y="3670" width="297" height="140" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-58" value="假球 = L5_SetAside&#xa;结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="519" y="3896" width="196" height="66" as="geometry" />
+          <mxGeometry x="440.5" y="3820" width="196" height="66" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-59" value="performWeighing(weighX, weighY) == -1 ? (weighX部分轻)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="765.5" y="3794.5" width="269" height="269" as="geometry" />
+          <mxGeometry x="888.5" y="3790" width="269" height="130" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-60" value="嫌疑组2 suspectGroup2 = weighX" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="635" y="4136" width="240" height="66" as="geometry" />
