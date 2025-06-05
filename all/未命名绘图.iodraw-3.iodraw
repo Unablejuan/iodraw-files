@@ -258,7 +258,7 @@
           <mxGeometry x="595.5" y="2880" width="326" height="120" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-54" value="嫌疑组 suspectGroup5 = groupA" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="502" y="3203" width="232" height="66" as="geometry" />
+          <mxGeometry x="483" y="3203" width="232" height="66" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-55" value="嫌疑组 suspectGroup5 = groupB" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="784" y="3203" width="232" height="66" as="geometry" />
@@ -306,6 +306,7 @@
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-68" value="是 (左盘轻)" style="curved=1;startArrow=none;endArrow=block;exitX=0.06;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pp58lr0c2BzMlJoOGfvQ-53" target="pp58lr0c2BzMlJoOGfvQ-54">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="650" y="3040" />
               <mxPoint x="618" y="3167" />
             </Array>
           </mxGeometry>
