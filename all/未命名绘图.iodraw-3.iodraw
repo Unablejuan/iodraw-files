@@ -258,13 +258,13 @@
           <mxGeometry x="595.5" y="2880" width="326" height="120" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-54" value="嫌疑组 suspectGroup5 = groupA" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="483" y="3203" width="232" height="66" as="geometry" />
+          <mxGeometry x="475.5" y="3180" width="232" height="66" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-55" value="嫌疑组 suspectGroup5 = groupB" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="784" y="3203" width="232" height="66" as="geometry" />
+          <mxGeometry x="776.5" y="3180" width="232" height="66" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-56" value="第二次称量设置: 从suspectGroup5取&#xa;weighX, weighY, L5_SetAside" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="660" y="3319" width="198" height="101" as="geometry" />
+          <mxGeometry x="652.5" y="3296" width="198" height="101" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-57" value="performWeighing(weighX, weighY) == 0 ? (天平平衡)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="610.5" y="3450" width="297" height="140" as="geometry" />
@@ -306,7 +306,6 @@
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-68" value="是 (左盘轻)" style="curved=1;startArrow=none;endArrow=block;exitX=0.06;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pp58lr0c2BzMlJoOGfvQ-53" target="pp58lr0c2BzMlJoOGfvQ-54">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="650" y="3040" />
               <mxPoint x="618" y="3167" />
             </Array>
           </mxGeometry>
@@ -321,20 +320,21 @@
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-70" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.02;entryY=0;rounded=0;" edge="1" parent="1" source="pp58lr0c2BzMlJoOGfvQ-54" target="pp58lr0c2BzMlJoOGfvQ-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="618" y="3294" />
+              <mxPoint x="610.5" y="3271" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-71" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.98;entryY=0;rounded=0;" edge="1" parent="1" source="pp58lr0c2BzMlJoOGfvQ-55" target="pp58lr0c2BzMlJoOGfvQ-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="900" y="3294" />
+              <mxPoint x="892.5" y="3271" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pp58lr0c2BzMlJoOGfvQ-72" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pp58lr0c2BzMlJoOGfvQ-56" target="pp58lr0c2BzMlJoOGfvQ-57">
+        <mxCell id="pp58lr0c2BzMlJoOGfvQ-72" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pp58lr0c2BzMlJoOGfvQ-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="751.5" y="3427" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-73" value="是 (平衡)" style="curved=1;startArrow=none;endArrow=block;exitX=0.07;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="pp58lr0c2BzMlJoOGfvQ-57" target="pp58lr0c2BzMlJoOGfvQ-58">
