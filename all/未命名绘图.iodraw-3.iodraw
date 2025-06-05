@@ -285,7 +285,7 @@
           <mxGeometry x="801" y="4252" width="198" height="84" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-63" value="performWeighing({P1}, {P2}) == -1 ? (P1轻)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="786" y="4386" width="229" height="229" as="geometry" />
+          <mxGeometry x="786" y="4386" width="254" height="94" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-64" value="假球 = P1&#xa;结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="747" y="4688" width="128" height="66" as="geometry" />
