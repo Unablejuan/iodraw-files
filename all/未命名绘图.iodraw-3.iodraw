@@ -398,13 +398,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-180" value="B_Start: 程序入口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="748" y="3740" width="187" height="49" as="geometry" />
+          <mxGeometry x="758.5" y="3980" width="187" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-181" value="B1: 初始化, 第一次称量准备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="712" y="3839" width="260" height="49" as="geometry" />
+          <mxGeometry x="722.5" y="4079" width="260" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-182" value="B2_P1: 第一次称量与判定 P1&#xa;(groupA 轻?)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="709" y="3937" width="266" height="83" as="geometry" />
+          <mxGeometry x="719.5" y="4177" width="266" height="83" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-183" value="B3: suspectGroup5 = groupA" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="610" y="4276" width="207" height="66" as="geometry" />
@@ -434,7 +434,7 @@
           <mxGeometry x="896" y="5294" width="209" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-192" value="B12_P4: 第三次称量与判定 P4&#xa;(P1 轻?)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="864" y="5393" width="274" height="274" as="geometry" />
+          <mxGeometry x="864" y="5393" width="274" height="107" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-193" value="B13_End: 假球 = P1 (结束)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="729" y="5740" width="247" height="49" as="geometry" />
