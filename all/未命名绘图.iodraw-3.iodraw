@@ -398,31 +398,31 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-180" value="B_Start: 程序入口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="731" y="4260" width="187" height="49" as="geometry" />
+          <mxGeometry x="660" y="4360" width="187" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-181" value="B1: 初始化, 第一次称量准备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="693" y="4360" width="260" height="49" as="geometry" />
+          <mxGeometry x="622" y="4460" width="260" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-182" value="B2_P1: 第一次称量与判定 P1&#xa;(groupA 轻?)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="691.5" y="4437" width="266" height="83" as="geometry" />
+          <mxGeometry x="620.5" y="4537" width="266" height="83" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-183" value="B3: suspectGroup5 = groupA" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="458" y="4536" width="207" height="66" as="geometry" />
+          <mxGeometry x="387" y="4636" width="207" height="66" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-184" value="B4: suspectGroup5 = groupB" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="4536" width="207" height="66" as="geometry" />
+          <mxGeometry x="949" y="4636" width="207" height="66" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-185" value="B5: 第二次称量准备" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="730" y="4652" width="201" height="49" as="geometry" />
+          <mxGeometry x="659" y="4752" width="201" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-186" value="B6_P2: 第二次称量与判定 P2&#xa;(天平平衡?)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="697" y="4751" width="266" height="99" as="geometry" />
+          <mxGeometry x="626" y="4851" width="266" height="99" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-187" value="B7_End: 假球 = L5_SetAside (结束)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="554" y="4934" width="259" height="66" as="geometry" />
+          <mxGeometry x="289" y="4950" width="259" height="66" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-188" value="B8_P3: 第二次不平衡, 判定 P3&#xa;(weighX 轻?)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="863" y="4829" width="276" height="101" as="geometry" />
+          <mxGeometry x="949" y="4950" width="276" height="101" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-189" value="B9: suspectGroup2 = weighX" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="767" y="5178" width="207" height="66" as="geometry" />
@@ -445,7 +445,7 @@
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-195" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="pp58lr0c2BzMlJoOGfvQ-181">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="822.5" y="4310" as="sourcePoint" />
+            <mxPoint x="751.5" y="4410" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-196" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pp58lr0c2BzMlJoOGfvQ-181" target="pp58lr0c2BzMlJoOGfvQ-182">
@@ -456,29 +456,29 @@
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-197" value="True" style="curved=1;startArrow=none;endArrow=block;exitX=0.12;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pp58lr0c2BzMlJoOGfvQ-182">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="700.5" y="4499" />
+              <mxPoint x="629.5" y="4599" />
             </Array>
-            <mxPoint x="560" y="4536" as="targetPoint" />
+            <mxPoint x="489" y="4636" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-198" value="False" style="curved=1;startArrow=none;endArrow=block;exitX=0.88;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pp58lr0c2BzMlJoOGfvQ-182" target="pp58lr0c2BzMlJoOGfvQ-184">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="958" y="4499" />
+              <mxPoint x="887" y="4599" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-199" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.18;entryY=0;rounded=0;" edge="1" parent="1" source="pp58lr0c2BzMlJoOGfvQ-183" target="pp58lr0c2BzMlJoOGfvQ-185">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="702" y="4627" />
+              <mxPoint x="631" y="4727" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-200" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.81;entryY=0;rounded=0;" edge="1" parent="1" source="pp58lr0c2BzMlJoOGfvQ-184" target="pp58lr0c2BzMlJoOGfvQ-185">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="958" y="4627" />
+              <mxPoint x="887" y="4727" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -490,14 +490,14 @@
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-202" value="True" style="curved=1;startArrow=none;endArrow=block;exitX=0.03;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pp58lr0c2BzMlJoOGfvQ-186" target="pp58lr0c2BzMlJoOGfvQ-187">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="683" y="4793" />
+              <mxPoint x="612" y="4893" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-203" value="False" style="curved=1;startArrow=none;endArrow=block;exitX=0.97;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pp58lr0c2BzMlJoOGfvQ-186" target="pp58lr0c2BzMlJoOGfvQ-188">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1001" y="4793" />
+              <mxPoint x="930" y="4893" />
             </Array>
           </mxGeometry>
         </mxCell>
