@@ -416,13 +416,13 @@
           <mxGeometry x="742" y="4392" width="201" height="49" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-186" value="B6_P2: 第二次称量与判定 P2&#xa;(天平平衡?)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="709" y="4491" width="266" height="266" as="geometry" />
+          <mxGeometry x="709" y="4491" width="266" height="99" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-187" value="B7_End: 假球 = L5_SetAside (结束)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="554" y="4934" width="259" height="66" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-188" value="B8_P3: 第二次不平衡, 判定 P3&#xa;(weighX 轻?)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="863" y="4829" width="276" height="276" as="geometry" />
+          <mxGeometry x="863" y="4829" width="276" height="101" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-189" value="B9: suspectGroup2 = weighX" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="767" y="5178" width="207" height="66" as="geometry" />
