@@ -255,7 +255,7 @@
           <mxGeometry x="633" y="2764" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-53" value="performWeighing(groupA, groupB) == -1 ? (左轻)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="634" y="2880" width="250" height="250" as="geometry" />
+          <mxGeometry x="634" y="2880" width="326" height="290" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-54" value="嫌疑组 suspectGroup5 = groupA" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="502" y="3203" width="232" height="66" as="geometry" />
@@ -267,7 +267,7 @@
           <mxGeometry x="660" y="3319" width="198" height="101" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-57" value="performWeighing(weighX, weighY) == 0 ? (天平平衡)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="633" y="3471" width="297" height="279" as="geometry" />
+          <mxGeometry x="610.5" y="3450" width="297" height="279" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-58" value="假球 = L5_SetAside&#xa;结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="519" y="3896" width="196" height="66" as="geometry" />
