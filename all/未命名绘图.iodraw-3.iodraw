@@ -397,6 +397,155 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="pp58lr0c2BzMlJoOGfvQ-114" value="开始 findTheFakeBall(actualFakeBallId)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="147" y="4760" width="259" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="pp58lr0c2BzMlJoOGfvQ-115" value="第一次称量设置: groupA vs groupB" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="151" y="4894" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="pp58lr0c2BzMlJoOGfvQ-116" value="performWeighing(groupA, groupB) == -1 ? (左轻)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="152" y="5010" width="250" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="pp58lr0c2BzMlJoOGfvQ-117" value="嫌疑组 suspectGroup5 = groupA" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="5333" width="232" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="pp58lr0c2BzMlJoOGfvQ-118" value="嫌疑组 suspectGroup5 = groupB" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="302" y="5333" width="232" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="pp58lr0c2BzMlJoOGfvQ-119" value="第二次称量设置: 从suspectGroup5取&#xa;weighX, weighY, L5_SetAside" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="178" y="5449" width="198" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="pp58lr0c2BzMlJoOGfvQ-120" value="performWeighing(weighX, weighY) == 0 ? (天平平衡)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="151" y="5601" width="251" height="251" as="geometry" />
+        </mxCell>
+        <mxCell id="pp58lr0c2BzMlJoOGfvQ-121" value="假球 = L5_SetAside&#xa;结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="37" y="6026" width="196" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="pp58lr0c2BzMlJoOGfvQ-122" value="performWeighing(weighX, weighY) == -1 ? (weighX部分轻)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="284" y="5924" width="269" height="269" as="geometry" />
+        </mxCell>
+        <mxCell id="pp58lr0c2BzMlJoOGfvQ-123" value="嫌疑组2 suspectGroup2 = weighX" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="153" y="6266" width="240" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="pp58lr0c2BzMlJoOGfvQ-124" value="嫌疑组2 suspectGroup2 = weighY" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="443" y="6266" width="240" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="pp58lr0c2BzMlJoOGfvQ-125" value="第三次称量设置: 从suspectGroup2取&#xa;P1, P2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="319" y="6382" width="198" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="pp58lr0c2BzMlJoOGfvQ-126" value="performWeighing({P1}, {P2}) == -1 ? (P1轻)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="304" y="6516" width="229" height="229" as="geometry" />
+        </mxCell>
+        <mxCell id="pp58lr0c2BzMlJoOGfvQ-127" value="假球 = P1&#xa;结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="265" y="6818" width="128" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="pp58lr0c2BzMlJoOGfvQ-128" value="假球 = P2&#xa;结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="443" y="6818" width="128" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="pp58lr0c2BzMlJoOGfvQ-129" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pp58lr0c2BzMlJoOGfvQ-114" target="pp58lr0c2BzMlJoOGfvQ-115">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pp58lr0c2BzMlJoOGfvQ-130" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pp58lr0c2BzMlJoOGfvQ-115" target="pp58lr0c2BzMlJoOGfvQ-116">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pp58lr0c2BzMlJoOGfvQ-131" value="是 (左盘轻)" style="curved=1;startArrow=none;endArrow=block;exitX=0.06;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pp58lr0c2BzMlJoOGfvQ-116" target="pp58lr0c2BzMlJoOGfvQ-117">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="136" y="5297" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pp58lr0c2BzMlJoOGfvQ-132" value="否 (右盘轻)" style="curved=1;startArrow=none;endArrow=block;exitX=0.94;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pp58lr0c2BzMlJoOGfvQ-116" target="pp58lr0c2BzMlJoOGfvQ-118">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="418" y="5297" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pp58lr0c2BzMlJoOGfvQ-133" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.02;entryY=0;rounded=0;" edge="1" parent="1" source="pp58lr0c2BzMlJoOGfvQ-117" target="pp58lr0c2BzMlJoOGfvQ-119">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="136" y="5424" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pp58lr0c2BzMlJoOGfvQ-134" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.98;entryY=0;rounded=0;" edge="1" parent="1" source="pp58lr0c2BzMlJoOGfvQ-118" target="pp58lr0c2BzMlJoOGfvQ-119">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="418" y="5424" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pp58lr0c2BzMlJoOGfvQ-135" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pp58lr0c2BzMlJoOGfvQ-119" target="pp58lr0c2BzMlJoOGfvQ-120">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pp58lr0c2BzMlJoOGfvQ-136" value="是 (平衡)" style="curved=1;startArrow=none;endArrow=block;exitX=0.07;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="pp58lr0c2BzMlJoOGfvQ-120" target="pp58lr0c2BzMlJoOGfvQ-121">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="136" y="5888" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pp58lr0c2BzMlJoOGfvQ-137" value="否 (不平衡)" style="curved=1;startArrow=none;endArrow=block;exitX=0.94;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pp58lr0c2BzMlJoOGfvQ-120" target="pp58lr0c2BzMlJoOGfvQ-122">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="418" y="5888" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pp58lr0c2BzMlJoOGfvQ-138" value="是 (weighX轻)" style="curved=1;startArrow=none;endArrow=block;exitX=0.07;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pp58lr0c2BzMlJoOGfvQ-122" target="pp58lr0c2BzMlJoOGfvQ-123">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="273" y="6229" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pp58lr0c2BzMlJoOGfvQ-139" value="否 (weighY轻)" style="curved=1;startArrow=none;endArrow=block;exitX=0.92;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pp58lr0c2BzMlJoOGfvQ-122" target="pp58lr0c2BzMlJoOGfvQ-124">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="563" y="6229" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pp58lr0c2BzMlJoOGfvQ-140" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.04;entryY=0;rounded=0;" edge="1" parent="1" source="pp58lr0c2BzMlJoOGfvQ-123" target="pp58lr0c2BzMlJoOGfvQ-125">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="273" y="6357" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pp58lr0c2BzMlJoOGfvQ-141" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.96;entryY=0;rounded=0;" edge="1" parent="1" source="pp58lr0c2BzMlJoOGfvQ-124" target="pp58lr0c2BzMlJoOGfvQ-125">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="563" y="6357" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pp58lr0c2BzMlJoOGfvQ-142" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pp58lr0c2BzMlJoOGfvQ-125" target="pp58lr0c2BzMlJoOGfvQ-126">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pp58lr0c2BzMlJoOGfvQ-143" value="是 (P1轻)" style="curved=1;startArrow=none;endArrow=block;exitX=0.2;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pp58lr0c2BzMlJoOGfvQ-126" target="pp58lr0c2BzMlJoOGfvQ-127">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="329" y="6781" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pp58lr0c2BzMlJoOGfvQ-144" value="否 (P2轻)" style="curved=1;startArrow=none;endArrow=block;exitX=0.79;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="pp58lr0c2BzMlJoOGfvQ-126" target="pp58lr0c2BzMlJoOGfvQ-128">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="507" y="6781" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
