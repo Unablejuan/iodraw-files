@@ -249,10 +249,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-51" value="开始 findTheFakeBall(actualFakeBallId)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="524" y="3300" width="259" height="64" as="geometry" />
+          <mxGeometry x="524" y="3320" width="259" height="64" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-52" value="第一次称量设置: groupA vs groupB" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="526.5" y="3380" width="252" height="66" as="geometry" />
+          <mxGeometry x="526.5" y="3410" width="252" height="36" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-53" value="performWeighing(groupA, groupB) == -1 ? (左轻)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="490.5" y="3470" width="326" height="120" as="geometry" />
@@ -267,7 +267,7 @@
           <mxGeometry x="551.5" y="3729" width="198" height="101" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-57" value="performWeighing(weighX, weighY) == 0 ? (天平平衡)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="502" y="3860" width="297" height="140" as="geometry" />
+          <mxGeometry x="502" y="3860" width="297" height="110" as="geometry" />
         </mxCell>
         <mxCell id="pp58lr0c2BzMlJoOGfvQ-58" value="假球 = L5_SetAside&#xa;结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="332" y="4010" width="196" height="66" as="geometry" />
