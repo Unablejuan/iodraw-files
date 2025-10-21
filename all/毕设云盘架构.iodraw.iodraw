@@ -588,7 +588,7 @@
           <mxGeometry x="3120" y="1088" width="40" height="86" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-294" value="注&#xa;册" style="whiteSpace=wrap;strokeWidth=2;fillOpacity=100;arcSize=11;strokeOpacity=100;" vertex="1" parent="1">
-          <mxGeometry x="2635" y="1230" width="33" height="49" as="geometry" />
+          <mxGeometry x="2635" y="1225" width="33" height="95" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-295" value="登&#xa;录" style="whiteSpace=wrap;strokeWidth=2;fillOpacity=100;arcSize=11;strokeOpacity=100;" vertex="1" parent="1">
           <mxGeometry x="2680" y="1225" width="30" height="95" as="geometry" />
