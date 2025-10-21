@@ -582,7 +582,7 @@
           <mxGeometry x="2296" y="1099" width="168" height="49" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-292" value="我&#xa;的&#xa;网&#xa;盘" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2842" y="1099" width="108" height="81" as="geometry" />
+          <mxGeometry x="2900" y="1099" width="50" height="81" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-293" value="外&#xa;部&#xa;分&#xa;享" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3494" y="1099" width="168" height="49" as="geometry" />
@@ -690,13 +690,6 @@
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-316" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EMDlGRT_pTTAoNZv5V5l-297" target="EMDlGRT_pTTAoNZv5V5l-301">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EMDlGRT_pTTAoNZv5V5l-317" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.79;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EMDlGRT_pTTAoNZv5V5l-297" target="EMDlGRT_pTTAoNZv5V5l-302">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2941" y="1271" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-318" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.85;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="EMDlGRT_pTTAoNZv5V5l-293" target="EMDlGRT_pTTAoNZv5V5l-303">
