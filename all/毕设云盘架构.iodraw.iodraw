@@ -728,7 +728,7 @@
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-358" value="登&#xa;录&#xa;（含&#xa;QQ&#xa;第&#xa;三&#xa;方&#xa;登&#xa;录）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2167" y="1926" width="45" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="EMDlGRT_pTTAoNZv5V5l-359" value="个&#xa;人&#xa;信&#xa;息&#xa;管&#xa;理&#xa;（头&#xa;像&#xa;上&#xa;传、&#xa;密&#xa;码&#xa;修&#xa;改）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-359" value="个&#xa;人&#xa;信&#xa;息&#xa;管&#xa;理&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3870.5" y="1639.5" width="45" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-360" value="存&#xa;储&#xa;空&#xa;间&#xa;管&#xa;理&#xa;与&#xa;配&#xa;额&#xa;控&#xa;制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
