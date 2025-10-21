@@ -776,8 +776,8 @@
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-404" value="个&#xa;人&#xa;信&#xa;息&#xa;管&#xa;理&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3760" y="1639.5" width="45" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="EMDlGRT_pTTAoNZv5V5l-405" value="文&#xa;件&#xa;上&#xa;传&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="4061" y="1649.5" width="45" height="150" as="geometry" />
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-405" value="&#xa;" style="strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="4146.5" y="1810" width="45" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
