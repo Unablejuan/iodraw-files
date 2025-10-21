@@ -708,7 +708,7 @@
           <mxGeometry x="4284" y="1298" width="181" height="42" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-352" value="用&#xa;户&#xa;账&#xa;户&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="4029" y="1440.5" width="45" height="150" as="geometry" />
+          <mxGeometry x="4025" y="1440.5" width="45" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-353" value="文&#xa;件&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="4187.5" y="1440" width="45" height="150" as="geometry" />
@@ -753,7 +753,7 @@
           <mxGeometry x="4367.5" y="1639.5" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-367" value="分&#xa;享&#xa;权&#xa;限&#xa;控&#xa;制" style="whiteSpace=wrap;strokeWidth=2;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="4402" y="1639.5" width="20" height="150" as="geometry" />
+          <mxGeometry x="4400" y="1639.5" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-368" value="多&#xa;种&#xa;格&#xa;式&#xa;在&#xa;线&#xa;预&#xa;览" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="4470" y="1639.5" width="20" height="150" as="geometry" />
@@ -765,13 +765,13 @@
           <mxGeometry x="4524" y="1639.5" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-371" value="用&#xa;户&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="4790" y="1639.5" width="20" height="150" as="geometry" />
+          <mxGeometry x="4629" y="1639.5" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-372" value="文&#xa;件&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="4830" y="1639.5" width="20" height="150" as="geometry" />
+          <mxGeometry x="4669" y="1639.5" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-373" value="系&#xa;统&#xa;参&#xa;数&#xa;设&#xa;置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="4868" y="1639.5" width="20" height="150" as="geometry" />
+          <mxGeometry x="4707" y="1639.5" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-404" value="个&#xa;人&#xa;信&#xa;息&#xa;管&#xa;理&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="4000" y="1639.5" width="20" height="150" as="geometry" />
