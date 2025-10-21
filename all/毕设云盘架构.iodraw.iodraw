@@ -729,10 +729,10 @@
           <mxGeometry x="2167" y="1926" width="45" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-359" value="存&#xa;储&#xa;空&#xa;间&#xa;管&#xa;理&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3881.5" y="1639.5" width="20" height="150" as="geometry" />
+          <mxGeometry x="3912" y="1639.5" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-360" value="&#xa;配&#xa;额&#xa;控&#xa;制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3942.5" y="1639.5" width="20" height="150" as="geometry" />
+          <mxGeometry x="3948.5" y="1639.5" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-361" value="文&#xa;件&#xa;上&#xa;传&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="4038" y="1639.5" width="20" height="150" as="geometry" />
@@ -774,7 +774,7 @@
           <mxGeometry x="4893" y="1639.5" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-404" value="个&#xa;人&#xa;信&#xa;息&#xa;管&#xa;理&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3820" y="1639.5" width="20" height="150" as="geometry" />
+          <mxGeometry x="3878.5" y="1639.5" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-405" value="文&#xa;件&#xa;下&#xa;载&#xa;" style="strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="4088" y="1639.5" width="20" height="150" as="geometry" />
