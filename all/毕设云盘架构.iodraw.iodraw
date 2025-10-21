@@ -711,13 +711,13 @@
           <mxGeometry x="3901" y="1440" width="45" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-353" value="文&#xa;件&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="4075" y="1440" width="45" height="150" as="geometry" />
+          <mxGeometry x="4126" y="1440" width="45" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-354" value="文&#xa;件&#xa;分&#xa;享" style="whiteSpace=wrap;strokeWidth=2;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="4330" y="1440" width="45" height="150" as="geometry" />
+          <mxGeometry x="4352" y="1440" width="45" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-355" value="文&#xa;件&#xa;预&#xa;览" style="whiteSpace=wrap;strokeWidth=2;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="4620" y="1440" width="45" height="150" as="geometry" />
+          <mxGeometry x="4577" y="1440" width="45" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-356" value="系&#xa;统&#xa;管&#xa;理&#xa;后&#xa;台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="4802" y="1440" width="45" height="150" as="geometry" />
