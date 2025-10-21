@@ -704,6 +704,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-411" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EMDlGRT_pTTAoNZv5V5l-351" target="EMDlGRT_pTTAoNZv5V5l-352">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-351" value="个人云盘管理系统" style="strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="4229" y="1378" width="181" height="42" as="geometry" />
         </mxCell>
