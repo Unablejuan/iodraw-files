@@ -585,7 +585,7 @@
           <mxGeometry x="2907.5" y="1088" width="39.5" height="81" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-293" value="外&#xa;部&#xa;分&#xa;享" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3494" y="1099" width="168" height="49" as="geometry" />
+          <mxGeometry x="3243" y="1148" width="168" height="49" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-294" value="注&#xa;册" style="whiteSpace=wrap;strokeWidth=2;fillOpacity=100;arcSize=11;strokeOpacity=100;" vertex="1" parent="1">
           <mxGeometry x="2170" y="1197" width="106" height="49" as="geometry" />
@@ -615,13 +615,13 @@
           <mxGeometry x="2879" y="1395" width="30" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-303" value="查&#xa;看&#xa;文&#xa;件" style="whiteSpace=wrap;strokeWidth=2;fillOpacity=100;arcSize=11;strokeOpacity=100;" vertex="1" parent="1">
-          <mxGeometry x="3261" y="1197" width="167" height="49" as="geometry" />
+          <mxGeometry x="3010" y="1246" width="167" height="49" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-304" value="保&#xa;存&#xa;到&#xa;网&#xa;盘" style="whiteSpace=wrap;strokeWidth=2;fillOpacity=100;arcSize=11;strokeOpacity=100;" vertex="1" parent="1">
-          <mxGeometry x="3479" y="1197" width="198" height="49" as="geometry" />
+          <mxGeometry x="3228" y="1246" width="198" height="49" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-305" value="取&#xa;消&#xa;分&#xa;享" style="whiteSpace=wrap;strokeWidth=2;fillOpacity=100;arcSize=11;strokeOpacity=100;" vertex="1" parent="1">
-          <mxGeometry x="3726" y="1197" width="167" height="49" as="geometry" />
+          <mxGeometry x="3475" y="1246" width="167" height="49" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-306" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="EMDlGRT_pTTAoNZv5V5l-290" target="EMDlGRT_pTTAoNZv5V5l-291">
           <mxGeometry relative="1" as="geometry">
@@ -688,7 +688,7 @@
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-318" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.85;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="EMDlGRT_pTTAoNZv5V5l-293" target="EMDlGRT_pTTAoNZv5V5l-303">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3345" y="1172" />
+              <mxPoint x="3094" y="1221" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -700,7 +700,7 @@
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-320" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.85;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="EMDlGRT_pTTAoNZv5V5l-293" target="EMDlGRT_pTTAoNZv5V5l-305">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3810" y="1172" />
+              <mxPoint x="3559" y="1221" />
             </Array>
           </mxGeometry>
         </mxCell>
