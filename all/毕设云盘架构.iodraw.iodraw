@@ -719,7 +719,7 @@
               <mxPoint x="4338" y="1430" />
               <mxPoint x="4449" y="1430" />
               <mxPoint x="4449" y="1435" />
-              <mxPoint x="4447" y="1435" />
+              <mxPoint x="4450" y="1460" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -744,7 +744,7 @@
           <mxGeometry x="4320" y="1460" width="36" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-355" value="文&#xa;件&#xa;预&#xa;览" style="whiteSpace=wrap;strokeWidth=2;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="4429" y="1460" width="36" height="150" as="geometry" />
+          <mxGeometry x="4431" y="1460" width="36" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-356" value="系&#xa;统&#xa;管&#xa;理&#xa;后&#xa;台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="4548" y="1460" width="36" height="150" as="geometry" />
