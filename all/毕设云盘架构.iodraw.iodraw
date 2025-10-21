@@ -720,7 +720,7 @@
           <mxGeometry x="4490" y="1440.5" width="45" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-356" value="系&#xa;统&#xa;管&#xa;理&#xa;后&#xa;台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="4740" y="1440.5" width="45" height="150" as="geometry" />
+          <mxGeometry x="4656.5" y="1450" width="45" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-357" value="用&#xa;户&#xa;注&#xa;册" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1950" y="1935" width="45" height="150" as="geometry" />
@@ -729,7 +729,7 @@
           <mxGeometry x="2167" y="1926" width="45" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-359" value="存&#xa;储&#xa;空&#xa;间&#xa;管&#xa;理&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="4033.5" y="1639.5" width="20" height="150" as="geometry" />
+          <mxGeometry x="4037" y="1639.5" width="20" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-360" value="&#xa;配&#xa;额&#xa;控&#xa;制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="4060" y="1639.5" width="20" height="150" as="geometry" />
