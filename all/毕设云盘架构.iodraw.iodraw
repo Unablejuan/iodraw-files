@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="gbXNCJofastHOjKShZFp">
-    <mxGraphModel dx="2571" dy="1176" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1408" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -776,7 +776,7 @@
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-404" value="个&#xa;人&#xa;信&#xa;息&#xa;管&#xa;理&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3760" y="1639.5" width="45" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="EMDlGRT_pTTAoNZv5V5l-405" value="&#xa;" style="strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-405" value="&#xa;" style="strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="4146.5" y="1810" width="45" height="150" as="geometry" />
         </mxCell>
       </root>
