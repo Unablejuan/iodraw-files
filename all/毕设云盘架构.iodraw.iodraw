@@ -731,7 +731,7 @@
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-359" value="存&#xa;储&#xa;空&#xa;间&#xa;管&#xa;理&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3901.25" y="1639.5" width="45" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="EMDlGRT_pTTAoNZv5V5l-360" value="存&#xa;储&#xa;空&#xa;间&#xa;管&#xa;理&#xa;与&#xa;配&#xa;额&#xa;控&#xa;制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-360" value="&#xa;配&#xa;额&#xa;控&#xa;制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3962.25" y="1639.5" width="45" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-361" value="文&#xa;件&#xa;上&#xa;传&#xa;（分&#xa;块、&#xa;断&#xa;点&#xa;续&#xa;传、&#xa;秒&#xa;传）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
