@@ -711,10 +711,10 @@
           <mxGeometry x="4048" y="1440.5" width="45" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-353" value="文&#xa;件&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="4216" y="1430" width="45" height="150" as="geometry" />
+          <mxGeometry x="4205" y="1440.5" width="45" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-354" value="文&#xa;件&#xa;分&#xa;享" style="whiteSpace=wrap;strokeWidth=2;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="4316" y="1430" width="45" height="150" as="geometry" />
+          <mxGeometry x="4329" y="1440" width="45" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-355" value="文&#xa;件&#xa;预&#xa;览" style="whiteSpace=wrap;strokeWidth=2;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="4454" y="1430" width="45" height="150" as="geometry" />
@@ -732,7 +732,7 @@
           <mxGeometry x="3990" y="1600" width="45" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-360" value="存&#xa;储&#xa;空&#xa;间&#xa;管&#xa;理&#xa;与&#xa;配&#xa;额&#xa;控&#xa;制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2782" y="1926" width="45" height="150" as="geometry" />
+          <mxGeometry x="3630" y="1710" width="45" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-361" value="文&#xa;件&#xa;上&#xa;传&#xa;（分&#xa;块、&#xa;断&#xa;点&#xa;续&#xa;传、&#xa;秒&#xa;传）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3091" y="1917" width="45" height="150" as="geometry" />
