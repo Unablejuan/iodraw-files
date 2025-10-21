@@ -585,7 +585,7 @@
           <mxGeometry x="2907.5" y="1088" width="39.5" height="81" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-293" value="外&#xa;部&#xa;分&#xa;享" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3199" y="1290" width="168" height="49" as="geometry" />
+          <mxGeometry x="3140" y="1104" width="40" height="86" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-294" value="注&#xa;册" style="whiteSpace=wrap;strokeWidth=2;fillOpacity=100;arcSize=11;strokeOpacity=100;" vertex="1" parent="1">
           <mxGeometry x="2170" y="1197" width="106" height="49" as="geometry" />
