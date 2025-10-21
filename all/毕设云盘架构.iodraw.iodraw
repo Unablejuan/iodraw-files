@@ -773,65 +773,9 @@
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-373" value="系&#xa;统&#xa;参&#xa;数&#xa;设&#xa;置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="6471" y="1935" width="45" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="EMDlGRT_pTTAoNZv5V5l-374" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.53;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="EMDlGRT_pTTAoNZv5V5l-351" target="EMDlGRT_pTTAoNZv5V5l-352">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2449" y="1794" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EMDlGRT_pTTAoNZv5V5l-375" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.58;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="EMDlGRT_pTTAoNZv5V5l-351" target="EMDlGRT_pTTAoNZv5V5l-353">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3672" y="1794" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-376" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="EMDlGRT_pTTAoNZv5V5l-351" target="EMDlGRT_pTTAoNZv5V5l-354">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EMDlGRT_pTTAoNZv5V5l-379" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.77;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EMDlGRT_pTTAoNZv5V5l-352" target="EMDlGRT_pTTAoNZv5V5l-357">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2034" y="1892" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EMDlGRT_pTTAoNZv5V5l-380" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.17;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EMDlGRT_pTTAoNZv5V5l-352" target="EMDlGRT_pTTAoNZv5V5l-358">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2295" y="1892" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EMDlGRT_pTTAoNZv5V5l-381" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.83;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EMDlGRT_pTTAoNZv5V5l-352" target="EMDlGRT_pTTAoNZv5V5l-359">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2603" y="1892" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EMDlGRT_pTTAoNZv5V5l-382" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.74;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EMDlGRT_pTTAoNZv5V5l-352" target="EMDlGRT_pTTAoNZv5V5l-360">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2911" y="1892" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EMDlGRT_pTTAoNZv5V5l-383" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EMDlGRT_pTTAoNZv5V5l-353" target="EMDlGRT_pTTAoNZv5V5l-361">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3220" y="1892" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EMDlGRT_pTTAoNZv5V5l-384" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.05;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EMDlGRT_pTTAoNZv5V5l-353" target="EMDlGRT_pTTAoNZv5V5l-362">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3522" y="1892" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-385" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EMDlGRT_pTTAoNZv5V5l-353" target="EMDlGRT_pTTAoNZv5V5l-363">
