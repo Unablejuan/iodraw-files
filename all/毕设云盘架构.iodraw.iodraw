@@ -714,7 +714,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-415" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EMDlGRT_pTTAoNZv5V5l-351" target="EMDlGRT_pTTAoNZv5V5l-355">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4338" y="1430" />
+              <mxPoint x="4449" y="1430" />
+              <mxPoint x="4449" y="1435" />
+              <mxPoint x="4447" y="1435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-416" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EMDlGRT_pTTAoNZv5V5l-351" target="EMDlGRT_pTTAoNZv5V5l-356">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4338" y="1430" />
+              <mxPoint x="4566" y="1430" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-351" value="个人云盘管理系统" style="strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="4247.5" y="1368" width="181" height="42" as="geometry" />
