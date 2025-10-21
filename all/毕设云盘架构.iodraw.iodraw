@@ -603,7 +603,7 @@
           <mxGeometry x="2907.5" y="1225" width="43" height="153" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-299" value="管&#xa;理&#xa;设&#xa;置" style="whiteSpace=wrap;strokeWidth=2;fillOpacity=100;arcSize=11;strokeOpacity=100;" vertex="1" parent="1">
-          <mxGeometry x="3010" y="1220" width="60" height="180" as="geometry" />
+          <mxGeometry x="2981" y="1221.5" width="40" height="160" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-300" value="上&#xa;传" style="whiteSpace=wrap;strokeWidth=2;fillOpacity=100;arcSize=11;strokeOpacity=100;" vertex="1" parent="1">
           <mxGeometry x="2702" y="1400" width="29" height="150" as="geometry" />
