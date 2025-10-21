@@ -606,7 +606,7 @@
           <mxGeometry x="3044" y="1197" width="167" height="49" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-300" value="上&#xa;传" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2624" y="1330.5" width="106" height="49" as="geometry" />
+          <mxGeometry x="2701" y="1280" width="36" height="129.5" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-301" value="文&#xa;件&#xa;列&#xa;表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2739" y="1280" width="30" height="150" as="geometry" />
