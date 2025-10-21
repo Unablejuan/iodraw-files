@@ -708,16 +708,16 @@
           <mxGeometry x="4284" y="1480" width="45" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-352" value="用&#xa;户&#xa;账&#xa;户&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="3840" y="1660" width="45" height="150" as="geometry" />
+          <mxGeometry x="4124" y="1650" width="45" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-353" value="文&#xa;件&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;flipH=0;" vertex="1" parent="1">
           <mxGeometry x="4220" y="1650" width="45" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-354" value="文&#xa;件&#xa;分&#xa;享" style="whiteSpace=wrap;strokeWidth=2;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="4510" y="1666" width="45" height="150" as="geometry" />
+          <mxGeometry x="4350" y="1650" width="45" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-355" value="文&#xa;件&#xa;预&#xa;览" style="whiteSpace=wrap;strokeWidth=2;flipH=0;" vertex="1" parent="1">
-          <mxGeometry x="4844.5" y="1673" width="45" height="150" as="geometry" />
+          <mxGeometry x="4458" y="1650" width="45" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-356" value="系&#xa;统&#xa;管&#xa;理&#xa;后&#xa;台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="6223" y="1819" width="45" height="150" as="geometry" />
