@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="gbXNCJofastHOjKShZFp">
-    <mxGraphModel dx="1990" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2184" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -701,6 +701,108 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3515" y="1363" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-323" value="系统管理后台" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="3653" y="1886" width="232" height="316" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-324" value="用户管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-323">
+          <mxGeometry x="62" y="43" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-325" value="文件管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-323">
+          <mxGeometry x="62" y="142" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-326" value="系统参数设置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-323">
+          <mxGeometry x="46" y="240" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-327" value="文件预览" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="3277" y="1877" width="325" height="334" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-328" value="多种格式在线预览&#xa;（图片、视频、音频、文档）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-327">
+          <mxGeometry x="46" y="43" width="250" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-329" value="视频转码与HLS流媒体播放" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-327">
+          <mxGeometry x="47" y="159" width="247" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-330" value="文档在线阅读" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-327">
+          <mxGeometry x="93" y="258" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-331" value="文件分享" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="2932" y="1886" width="295" height="316" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-332" value="生成分享链接与提取码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-331">
+          <mxGeometry x="46" y="43" width="220" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-333" value="分享文件访问与下载" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-331">
+          <mxGeometry x="53" y="142" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-334" value="分享权限控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-331">
+          <mxGeometry x="77" y="240" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-335" value="文件管理" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="2555" y="1819" width="327" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-336" value="文件上传&#xa;（分块、断点续传、秒传）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-335">
+          <mxGeometry x="46" y="43" width="250" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-337" value="文件下载、删除、重命名、移动" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-335">
+          <mxGeometry x="46" y="159" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-338" value="文件夹创建与管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-335">
+          <mxGeometry x="78" y="276" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-339" value="回收站功能" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-335">
+          <mxGeometry x="102" y="374" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-340" value="用户账户管理" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="2180" y="1827" width="325" height="432" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-341" value="用户注册" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-340">
+          <mxGeometry x="109" y="43" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-342" value="登录（含QQ第三方登录）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-340">
+          <mxGeometry x="50" y="142" width="242" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-343" value="个人信息管理&#xa;（头像上传、密码修改）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-340">
+          <mxGeometry x="46" y="240" width="250" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-344" value="存储空间管理与配额控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-340">
+          <mxGeometry x="53" y="357" width="236" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-345" value="云盘系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3018" y="1720" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-346" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.58;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EMDlGRT_pTTAoNZv5V5l-345" target="EMDlGRT_pTTAoNZv5V5l-340">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2343" y="1794" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-347" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EMDlGRT_pTTAoNZv5V5l-345" target="EMDlGRT_pTTAoNZv5V5l-335">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2719" y="1794" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-348" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EMDlGRT_pTTAoNZv5V5l-345" target="EMDlGRT_pTTAoNZv5V5l-331">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-349" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.67;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EMDlGRT_pTTAoNZv5V5l-345" target="EMDlGRT_pTTAoNZv5V5l-327">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3440" y="1794" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-350" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.59;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EMDlGRT_pTTAoNZv5V5l-345" target="EMDlGRT_pTTAoNZv5V5l-323">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3769" y="1794" />
             </Array>
           </mxGeometry>
         </mxCell>
