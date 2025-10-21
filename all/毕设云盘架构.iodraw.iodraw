@@ -768,33 +768,19 @@
           <mxGeometry x="4760" y="1639.5" width="45" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-372" value="文&#xa;件&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5467" y="1908" width="45" height="150" as="geometry" />
+          <mxGeometry x="4860" y="1650" width="45" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-373" value="系&#xa;统&#xa;参&#xa;数&#xa;设&#xa;置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5684" y="1908" width="45" height="150" as="geometry" />
+          <mxGeometry x="4950" y="1650" width="45" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-376" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="EMDlGRT_pTTAoNZv5V5l-351" target="EMDlGRT_pTTAoNZv5V5l-354">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EMDlGRT_pTTAoNZv5V5l-393" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.03;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EMDlGRT_pTTAoNZv5V5l-356" target="EMDlGRT_pTTAoNZv5V5l-371">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="6120" y="1892" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-394" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EMDlGRT_pTTAoNZv5V5l-356" target="EMDlGRT_pTTAoNZv5V5l-372">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EMDlGRT_pTTAoNZv5V5l-395" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.96;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="EMDlGRT_pTTAoNZv5V5l-356" target="EMDlGRT_pTTAoNZv5V5l-373">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="6586" y="1892" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
