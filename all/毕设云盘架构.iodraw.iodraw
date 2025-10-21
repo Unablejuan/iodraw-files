@@ -747,10 +747,10 @@
           <mxGeometry x="4201" y="1639.5" width="45" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-365" value="生&#xa;成&#xa;分&#xa;享&#xa;链&#xa;接&#xa;与&#xa;提&#xa;取&#xa;码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="4304.5" y="1639.5" width="25.5" height="150" as="geometry" />
+          <mxGeometry x="4320" y="1639.5" width="25.5" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-366" value="分&#xa;享&#xa;文&#xa;件&#xa;访&#xa;问&#xa;与&#xa;下&#xa;载" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="4360.5" y="1639.5" width="28" height="150" as="geometry" />
+          <mxGeometry x="4360.5" y="1639.5" width="19.5" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-367" value="分&#xa;享&#xa;权&#xa;限&#xa;控&#xa;制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="4399.5" y="1639.5" width="20.5" height="150" as="geometry" />
