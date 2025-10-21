@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="gbXNCJofastHOjKShZFp">
-    <mxGraphModel dx="3269" dy="1646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2263" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -729,7 +729,7 @@
           <mxGeometry x="2167" y="1926" width="45" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-359" value="个&#xa;人&#xa;信&#xa;息&#xa;管&#xa;理&#xa;（头&#xa;像&#xa;上&#xa;传、&#xa;密&#xa;码&#xa;修&#xa;改）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="4003" y="1604" width="45" height="150" as="geometry" />
+          <mxGeometry x="4003" y="1640" width="45" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-360" value="存&#xa;储&#xa;空&#xa;间&#xa;管&#xa;理&#xa;与&#xa;配&#xa;额&#xa;控&#xa;制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="4064" y="1640" width="45" height="150" as="geometry" />
@@ -738,7 +738,7 @@
           <mxGeometry x="4160" y="1640" width="45" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-362" value="文&#xa;件&#xa;下&#xa;载、&#xa;删&#xa;除、&#xa;重&#xa;命&#xa;名、&#xa;移&#xa;动" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3399" y="1926" width="45" height="150" as="geometry" />
+          <mxGeometry x="4210" y="1640" width="45" height="150" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-363" value="文&#xa;件&#xa;夹&#xa;创&#xa;建&#xa;与&#xa;管&#xa;理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3694" y="1926" width="45" height="150" as="geometry" />
@@ -796,9 +796,6 @@
               <mxPoint x="6586" y="1892" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="EMDlGRT_pTTAoNZv5V5l-403" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EMDlGRT_pTTAoNZv5V5l-359" target="EMDlGRT_pTTAoNZv5V5l-359">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
