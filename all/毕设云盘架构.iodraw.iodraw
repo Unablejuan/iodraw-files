@@ -579,7 +579,7 @@
           <mxGeometry x="2830" y="1000" width="191" height="49" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-291" value="登&#xa;录&#xa;注&#xa;册" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2582" y="1220" width="47" height="165" as="geometry" />
+          <mxGeometry x="2577" y="1197" width="47" height="143" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-292" value="我&#xa;的&#xa;网&#xa;盘" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2900" y="1099" width="50" height="81" as="geometry" />
@@ -600,7 +600,7 @@
           <mxGeometry x="2731" y="1197" width="48" height="143" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-298" value="回&#xa;收&#xa;站" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2857" y="1197" width="137" height="49" as="geometry" />
+          <mxGeometry x="2857" y="1197" width="137" height="153" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-299" value="管&#xa;理&#xa;设&#xa;置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3044" y="1197" width="167" height="49" as="geometry" />
