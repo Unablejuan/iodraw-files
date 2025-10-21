@@ -1,9 +1,513 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="gbXNCJofastHOjKShZFp">
-    <mxGraphModel dx="1018" dy="686" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1845" dy="1855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-1" value="graph TB" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-830" width="160" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-2" value="    %% 顶层系统节点" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-1">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-3" value="    top[Essay云盘系统]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-1">
+          <mxGeometry y="52" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-4" value="    %% 一级模块：登录注册" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-830" width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-5" value="    loginReg[登录注册]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-4">
+          <mxGeometry y="26" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-6" value="    top --&gt; loginReg" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-4">
+          <mxGeometry y="52" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-7" value="    " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-4">
+          <mxGeometry y="78" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-8" value="    %% 登录注册的子模块" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-4">
+          <mxGeometry y="104" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-9" value="    subgraph 登录注册子模块" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-4">
+          <mxGeometry y="130" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-10" value="        register[注册]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-4">
+          <mxGeometry y="156" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-11" value="        loginWithQQ[登录、QQ登录]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-4">
+          <mxGeometry y="182" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-12" value="        findPwd[找回密码]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-4">
+          <mxGeometry y="208" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-13" value="        sendEmailCode[发送邮箱验证码]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-4">
+          <mxGeometry y="234" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-14" value="    end" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-4">
+          <mxGeometry y="260" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-15" value="    loginReg --&gt; register" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-4">
+          <mxGeometry y="286" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-16" value="    loginReg --&gt; loginWithQQ" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-4">
+          <mxGeometry y="312" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-17" value="    loginReg --&gt; findPwd" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-4">
+          <mxGeometry y="338" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-18" value="    loginReg --&gt; sendEmailCode" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-4">
+          <mxGeometry y="364" width="200" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-19" value="    %% 一级模块：我的网盘" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="-830" width="270" height="3094" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-20" value="    myDisk[我的网盘]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="26" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-21" value="    top --&gt; myDisk" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="52" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-22" value="    " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="78" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-23" value="    %% 我的网盘的子模块（嵌套结构）" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="104" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-24" value="    subgraph 我的网盘子模块" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="130" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-25" value="        homePage[首页]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="156" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-26" value="        shareModule[分享]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="182" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-27" value="        recycleBin[回收站]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="208" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-28" value="        adminSetting[设置（管理员）]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="234" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-29" value="        " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="260" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-30" value="        %% 首页的子模块" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="286" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-31" value="        subgraph 首页子模块" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="312" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-32" value="            batchUpload[文件批量上传]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="338" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-33" value="            fileList[文件列表]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="364" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-34" value="            newFolder[新建文件夹]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="390" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-35" value="            " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="416" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-36" value="            %% 文件批量上传的子模块" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="442" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-37" value="            subgraph 文件批量上传子模块" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="468" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-38" value="                sliceUpload[分片上传]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="494" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-39" value="                secUpload[秒传]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="520" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-40" value="                resumeUpload[断点续传]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="546" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-41" value="                cancelUpload[取消上传]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="572" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-42" value="            end" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="598" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-43" value="            batchUpload --&gt; sliceUpload" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="624" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-44" value="            batchUpload --&gt; secUpload" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="650" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-45" value="            batchUpload --&gt; resumeUpload" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="676" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-46" value="            batchUpload --&gt; cancelUpload" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="702" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-47" value="            " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="728" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-48" value="            %% 文件列表的子模块" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="754" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-49" value="            subgraph 文件列表子模块" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="780" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-50" value="                onlinePreview[文件在线预览]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="806" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-51" value="                fileDownload[文件下载]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="832" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-52" value="                shareOp[分享]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="858" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-53" value="                deleteOp[删除]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="884" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-54" value="                renameOp[重命名]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="910" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-55" value="                moveOp[移动]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="936" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-56" value="                " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="962" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-57" value="                %% 文件在线预览的子模块" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="988" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-58" value="                subgraph 在线预览子模块" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1014" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-59" value="                    videoPlay[视频播放]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1040" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-60" value="                    musicPlay[音乐播放]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1066" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-61" value="                    imgPreview[图片预览]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1092" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-62" value="                    docPreview[exlce,doc预览]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1118" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-63" value="                    textPreview[文本预览]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1144" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-64" value="                    pdfPreview[pdf在线预览]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1170" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-65" value="                end" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1196" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-66" value="                onlinePreview --&gt; videoPlay" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1222" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-67" value="                onlinePreview --&gt; musicPlay" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1248" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-68" value="                onlinePreview --&gt; imgPreview" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1274" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-69" value="                onlinePreview --&gt; docPreview" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1300" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-70" value="                onlinePreview --&gt; textPreview" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1326" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-71" value="                onlinePreview --&gt; pdfPreview" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1352" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-72" value="            end" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1378" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-73" value="            fileList --&gt; onlinePreview" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1404" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-74" value="            fileList --&gt; fileDownload" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1430" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-75" value="            fileList --&gt; shareOp" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1456" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-76" value="            fileList --&gt; deleteOp" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1482" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-77" value="            fileList --&gt; renameOp" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1508" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-78" value="            fileList --&gt; moveOp" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1534" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-79" value="        end" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1560" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-80" value="        homePage --&gt; batchUpload" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1586" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-81" value="        homePage --&gt; fileList" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1612" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-82" value="        homePage --&gt; newFolder" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1638" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-83" value="        " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1664" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-84" value="        %% 分享的子模块" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1690" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-85" value="        subgraph 分享子模块" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1716" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-86" value="            cancelShare[取消分享]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1742" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-87" value="            copyLink[复制分享链接]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1768" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-88" value="        end" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1794" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-89" value="        shareModule --&gt; cancelShare" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1820" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-90" value="        shareModule --&gt; copyLink" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1846" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-91" value="        " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1872" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-92" value="        %% 回收站的子模块" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1898" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-93" value="        subgraph 回收站子模块" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1924" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-94" value="            restoreFile[还原]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1950" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-95" value="            deleteForever[彻底删除]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="1976" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-96" value="        end" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2002" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-97" value="        recycleBin --&gt; restoreFile" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2028" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-98" value="        recycleBin --&gt; deleteForever" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2054" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-99" value="        " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2080" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-100" value="        %% 管理员设置的子模块" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2106" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-101" value="        subgraph 管理员设置子模块" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2132" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-102" value="            userFiles[用户文件(查看所有用户上传的文件)]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2158" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-103" value="            userManage[用户管理]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2184" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-104" value="            systemSetting[系统设置]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2210" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-105" value="            " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2236" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-106" value="            %% 用户文件的子模块" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2262" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-107" value="            subgraph 用户文件子模块" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2288" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-108" value="                deleteUserFile[删除]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2314" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-109" value="                previewDownload[预览/下载]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2340" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-110" value="            end" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2366" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-111" value="            userFiles --&gt; deleteUserFile" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2392" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-112" value="            userFiles --&gt; previewDownload" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2418" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-113" value="            " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2444" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-114" value="            %% 用户管理的子模块" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2470" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-115" value="            subgraph 用户管理子模块" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2496" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-116" value="                allocSpace[分配空间]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2522" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-117" value="                enableDisable[启用、禁用]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2548" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-118" value="            end" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2574" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-119" value="            userManage --&gt; allocSpace" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2600" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-120" value="            userManage --&gt; enableDisable" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2626" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-121" value="            " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2652" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-122" value="            %% 系统设置的子模块" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2678" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-123" value="            subgraph 系统设置子模块" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2704" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-124" value="                emailTemplate[设置邮件模板]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2730" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-125" value="                initUserSpace[设置用户初始化空间]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2756" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-126" value="            end" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2782" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-127" value="            systemSetting --&gt; emailTemplate" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2808" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-128" value="            systemSetting --&gt; initUserSpace" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2834" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-129" value="        end" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2860" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-130" value="        adminSetting --&gt; userFiles" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2886" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-131" value="        adminSetting --&gt; userManage" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2912" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-132" value="        adminSetting --&gt; systemSetting" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2938" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-133" value="    end" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2964" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-134" value="    myDisk --&gt; homePage" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="2990" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-135" value="    myDisk --&gt; shareModule" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="3016" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-136" value="    myDisk --&gt; recycleBin" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="3042" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-137" value="    myDisk --&gt; adminSetting" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-19">
+          <mxGeometry y="3068" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-138" value="    %% 一级模块：外部分享" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-830" width="260" height="806" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-139" value="    externalShare[外部分享]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-138">
+          <mxGeometry y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-140" value="    top --&gt; externalShare" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-138">
+          <mxGeometry y="52" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-141" value="    " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-138">
+          <mxGeometry y="78" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-142" value="    %% 外部分享的子模块" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-138">
+          <mxGeometry y="104" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-143" value="    subgraph 外部分享子模块" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-138">
+          <mxGeometry y="130" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-144" value="        shareCodeFileList[通过分享码查看文件列表]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-138">
+          <mxGeometry y="156" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-145" value="        externalPreview[预览文件]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-138">
+          <mxGeometry y="182" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-146" value="        saveToMyDisk[保存到我的网盘]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-138">
+          <mxGeometry y="208" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-147" value="        cancelMyShare[当前用户取消分享]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-138">
+          <mxGeometry y="234" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-148" value="        " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-138">
+          <mxGeometry y="260" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-149" value="        %% 外部预览的子模块" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-138">
+          <mxGeometry y="286" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-150" value="        subgraph 外部预览子模块" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-138">
+          <mxGeometry y="312" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-151" value="            videoPlayExt[视频播放]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-138">
+          <mxGeometry y="338" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-152" value="            musicPlayExt[音乐播放]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-138">
+          <mxGeometry y="364" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-153" value="            imgPreviewExt[图片预览]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-138">
+          <mxGeometry y="390" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-154" value="            docPreviewExt[exlce,doc预览]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-138">
+          <mxGeometry y="416" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-155" value="            textPreviewExt[文本预览]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-138">
+          <mxGeometry y="442" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-156" value="            pdfPreviewExt[pdf在线预览]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-138">
+          <mxGeometry y="468" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-157" value="        end" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-138">
+          <mxGeometry y="494" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-158" value="        externalPreview --&gt; videoPlayExt" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-138">
+          <mxGeometry y="520" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-159" value="        externalPreview --&gt; musicPlayExt" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-138">
+          <mxGeometry y="546" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-160" value="        externalPreview --&gt; imgPreviewExt" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-138">
+          <mxGeometry y="572" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-161" value="        externalPreview --&gt; docPreviewExt" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-138">
+          <mxGeometry y="598" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-162" value="        externalPreview --&gt; textPreviewExt" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-138">
+          <mxGeometry y="624" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-163" value="        externalPreview --&gt; pdfPreviewExt" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-138">
+          <mxGeometry y="650" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-164" value="    end" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-138">
+          <mxGeometry y="676" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-165" value="    externalShare --&gt; shareCodeFileList" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-138">
+          <mxGeometry y="702" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-166" value="    externalShare --&gt; externalPreview" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-138">
+          <mxGeometry y="728" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-167" value="    externalShare --&gt; saveToMyDisk" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-138">
+          <mxGeometry y="754" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-168" value="    externalShare --&gt; cancelMyShare" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="EMDlGRT_pTTAoNZv5V5l-138">
+          <mxGeometry y="780" width="260" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
