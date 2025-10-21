@@ -609,7 +609,7 @@
           <mxGeometry x="2514" y="1296" width="106" height="49" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-301" value="文&#xa;件&#xa;列&#xa;表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2670" y="1296" width="167" height="334" as="geometry" />
+          <mxGeometry x="2740" y="1296" width="30" height="334" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-302" value="预&#xa;览" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2888" y="1296" width="106" height="49" as="geometry" />
