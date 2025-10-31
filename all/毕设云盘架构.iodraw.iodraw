@@ -792,7 +792,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EMDlGRT_pTTAoNZv5V5l-426" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EMDlGRT_pTTAoNZv5V5l-354" target="EMDlGRT_pTTAoNZv5V5l-366" edge="1">
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-426" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=link;" parent="1" source="EMDlGRT_pTTAoNZv5V5l-354" target="EMDlGRT_pTTAoNZv5V5l-366" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-427" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="EMDlGRT_pTTAoNZv5V5l-354" target="EMDlGRT_pTTAoNZv5V5l-367" edge="1">
@@ -902,12 +902,6 @@
         </mxCell>
         <mxCell id="EMDlGRT_pTTAoNZv5V5l-406" value="HLS&#xa;流&#xa;媒&#xa;体&#xa;播&#xa;放" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="4484.75" y="1670" width="20" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="lTt_6MTba9Z8XzeMGnAa-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="4310" y="1690" as="sourcePoint" />
-            <mxPoint x="4360" y="1640" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
