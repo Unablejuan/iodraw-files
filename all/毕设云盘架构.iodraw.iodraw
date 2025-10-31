@@ -729,11 +729,12 @@
               <mxPoint x="4338" y="1430" />
               <mxPoint x="4449" y="1430" />
               <mxPoint x="4449" y="1435" />
+              <mxPoint x="4450" y="1435" />
               <mxPoint x="4450" y="1460" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="EMDlGRT_pTTAoNZv5V5l-416" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EMDlGRT_pTTAoNZv5V5l-351" target="EMDlGRT_pTTAoNZv5V5l-356" edge="1">
+        <mxCell id="EMDlGRT_pTTAoNZv5V5l-416" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="EMDlGRT_pTTAoNZv5V5l-351" target="EMDlGRT_pTTAoNZv5V5l-356" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4338" y="1430" />
