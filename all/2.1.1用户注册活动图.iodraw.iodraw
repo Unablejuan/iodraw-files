@@ -108,11 +108,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YAbT_LrqAhuxKvHpi7vS-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.22;entryY=0;rounded=0;" edge="1" parent="1" source="YAbT_LrqAhuxKvHpi7vS-12" target="YAbT_LrqAhuxKvHpi7vS-13">
+        <mxCell id="YAbT_LrqAhuxKvHpi7vS-29" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.5;exitY=1;rounded=0;" edge="1" parent="1" source="YAbT_LrqAhuxKvHpi7vS-12">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2055" y="1059" />
-            </Array>
+            <Array as="points" />
+            <mxPoint x="1881" y="1180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-30" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.16;rounded=0;" edge="1" parent="1" source="YAbT_LrqAhuxKvHpi7vS-13" target="YAbT_LrqAhuxKvHpi7vS-16">
