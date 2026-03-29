@@ -11,19 +11,19 @@
           <mxGeometry x="430" y="350" width="568" height="2027" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-3" value="前端界面 (Client)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1075" y="100" width="486" height="865" as="geometry" />
+          <mxGeometry x="1230" y="125" width="486" height="865" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-4" value="开始" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="15" width="47" height="47" as="geometry" />
+          <mxGeometry x="1475" y="40" width="47" height="47" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-5" value="活动1: 输入注册信息 (邮箱、昵称、密码)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1239" y="112" width="208" height="66" as="geometry" />
+          <mxGeometry x="1394" y="137" width="208" height="66" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-6" value="活动3: 输入图片验证码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1075" y="228" width="224" height="49" as="geometry" />
+          <mxGeometry x="1230" y="253" width="224" height="49" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-7" value="活动5: 输入邮箱验证码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1085" y="781" width="224" height="49" as="geometry" />
+          <mxGeometry x="1240" y="806" width="224" height="49" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-8" value="活动2: 获取图片验证码 (checkCode)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="749" y="642" width="224" height="66" as="geometry" />
@@ -44,10 +44,10 @@
           <mxGeometry x="696" y="1334" width="202" height="202" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-14" value="活动8: MD5加密密码 (encodeByMD5)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="621" y="2023" width="205" height="66" as="geometry" />
+          <mxGeometry x="611.5" y="1890" width="205" height="66" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-15" value="活动10: 注册成功提示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="616" y="2280" width="216" height="49" as="geometry" />
+          <mxGeometry x="611" y="2180" width="216" height="49" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-16" value="活动7: 检查邮箱是否已注册" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="35" y="1400" width="256" height="49" as="geometry" />
@@ -69,7 +69,7 @@
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.07;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="YAbT_LrqAhuxKvHpi7vS-5" target="YAbT_LrqAhuxKvHpi7vS-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1186" y="203" />
+              <mxPoint x="1341" y="228" />
             </Array>
           </mxGeometry>
         </mxCell>
