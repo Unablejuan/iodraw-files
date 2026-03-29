@@ -20,7 +20,7 @@
           <mxGeometry x="1194" y="117" width="208" height="66" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-6" value="活动3: 输入图片验证码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="970" y="210" width="224" height="49" as="geometry" />
+          <mxGeometry x="960" y="310" width="224" height="49" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-7" value="活动5: 输入邮箱验证码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="980" y="806" width="224" height="49" as="geometry" />
