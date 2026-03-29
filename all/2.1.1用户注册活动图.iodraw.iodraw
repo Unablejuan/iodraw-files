@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-1" value="持久层 (MySQL: user_info)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="356" y="479" width="580" height="1440" as="geometry" />
+          <mxGeometry x="370" y="40" width="580" height="1440" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-2" value="后端服务 (AccountController/EmailService)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1730" y="80" width="568" height="2027" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="1110" y="570" width="224" height="49" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-7" value="活动5: 输入邮箱验证码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1141" y="1030" width="224" height="49" as="geometry" />
+          <mxGeometry x="1141" y="960" width="224" height="49" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-8" value="活动2: 获取图片验证码 (checkCode)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1932" y="140" width="224" height="66" as="geometry" />
@@ -160,7 +160,9 @@
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-39" value="是 (提示已注册)" style="curved=0;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0;entryY=0.75;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YAbT_LrqAhuxKvHpi7vS-17" target="YAbT_LrqAhuxKvHpi7vS-5">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="1100" y="330" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
