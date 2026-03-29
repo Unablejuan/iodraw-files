@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="EtJigX6Ceg1vutZQ_g8X-1" value="My Pan 网盘系统 (系统边界)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="234" y="154" width="683" height="538" as="geometry" />
+          <mxGeometry x="234" y="150" width="683" height="538" as="geometry" />
         </mxCell>
         <mxCell id="EtJigX6Ceg1vutZQ_g8X-2" value="普通用户" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="287" y="40" width="79" height="79" as="geometry" />
