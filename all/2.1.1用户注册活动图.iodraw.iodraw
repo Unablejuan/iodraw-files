@@ -8,7 +8,7 @@
           <mxGeometry x="320" y="40" width="630" height="1840" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-2" value="后端服务 (AccountController/EmailService)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="80" width="568" height="1800" as="geometry" />
+          <mxGeometry x="1740" y="40" width="568" height="1840" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-3" value="前端界面 (Client)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1020" y="40" width="640" height="1840" as="geometry" />
