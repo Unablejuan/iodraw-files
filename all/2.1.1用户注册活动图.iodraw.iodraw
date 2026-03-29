@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-1" value="持久层 (MySQL: user_info)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="350" y="880" width="381" height="1070" as="geometry" />
+          <mxGeometry x="350" y="510" width="381" height="1440" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-2" value="后端服务 (AccountController/EmailService)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1730" y="80" width="568" height="2027" as="geometry" />
@@ -162,9 +162,7 @@
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-39" value="是 (提示已注册)" style="curved=0;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.9;exitY=0;entryX=0;entryY=0.75;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YAbT_LrqAhuxKvHpi7vS-17" target="YAbT_LrqAhuxKvHpi7vS-5">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="580" y="240" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
