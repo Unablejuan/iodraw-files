@@ -165,9 +165,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-37" value="否 (提示错误)" style="curved=0;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.47;exitY=0;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YAbT_LrqAhuxKvHpi7vS-11" target="YAbT_LrqAhuxKvHpi7vS-10">
-          <mxGeometry x="-0.2724" y="-19" relative="1" as="geometry">
+          <mxGeometry x="-0.1135" y="26" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2080" y="650" />
+              <mxPoint x="2090" y="660" />
               <mxPoint x="2050" y="630" />
               <mxPoint x="2010" y="600" />
             </Array>
