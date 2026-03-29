@@ -44,10 +44,10 @@
           <mxGeometry x="1943" y="1178" width="202" height="202" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-14" value="活动8: MD5加密密码 (encodeByMD5)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1941.5" y="1490" width="205" height="66" as="geometry" />
+          <mxGeometry x="1940" y="1420" width="205" height="66" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-15" value="活动10: 注册成功提示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1936" y="1630" width="216" height="49" as="geometry" />
+          <mxGeometry x="1932" y="1580" width="216" height="49" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-16" value="活动7: 检查邮箱是否已注册" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="640" y="870" width="256" height="49" as="geometry" />
