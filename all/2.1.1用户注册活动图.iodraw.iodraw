@@ -50,7 +50,7 @@
           <mxGeometry x="1932" y="1720" width="216" height="49" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-16" value="活动7: 检查邮箱是否已注册" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="610" y="951" width="256" height="49" as="geometry" />
+          <mxGeometry x="610" y="880" width="256" height="49" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-17" value="决策4: 邮箱是否已存在?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="350" y="951" width="218" height="218" as="geometry" />
@@ -160,9 +160,7 @@
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-39" value="是 (提示已注册)" style="curved=0;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0;entryY=0.75;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YAbT_LrqAhuxKvHpi7vS-17" target="YAbT_LrqAhuxKvHpi7vS-5">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1100" y="330" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
