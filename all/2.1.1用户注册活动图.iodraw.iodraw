@@ -53,7 +53,7 @@
           <mxGeometry x="380" y="940" width="256" height="49" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-17" value="决策4: 邮箱是否已存在?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="399" y="1020" width="218" height="218" as="geometry" />
+          <mxGeometry x="399" y="1090" width="218" height="218" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-18" value="活动9: 创建用户记录 (insert)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="439" y="1425" width="208" height="66" as="geometry" />
