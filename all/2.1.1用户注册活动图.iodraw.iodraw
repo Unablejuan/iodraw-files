@@ -165,8 +165,6 @@
           <mxGeometry x="-0.2724" y="-19" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2070" y="660" />
-              <mxPoint x="2050" y="630" />
-              <mxPoint x="2010" y="600" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
