@@ -193,8 +193,8 @@
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-39" value="是 (提示已注册)" style="curved=0;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.9;exitY=0;entryX=0.53;entryY=1;rounded=0;" edge="1" parent="1" source="YAbT_LrqAhuxKvHpi7vS-17" target="YAbT_LrqAhuxKvHpi7vS-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1353" y="1707" />
-              <mxPoint x="1353" y="203" />
+              <mxPoint x="580" y="240" />
+              <mxPoint x="1390" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
