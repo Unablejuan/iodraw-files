@@ -47,7 +47,7 @@
           <mxGeometry x="1941.5" y="1490" width="205" height="66" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-15" value="活动10: 注册成功提示" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1943" y="1630" width="216" height="49" as="geometry" />
+          <mxGeometry x="1936" y="1630" width="216" height="49" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-16" value="活动7: 检查邮箱是否已注册" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="640" y="870" width="256" height="49" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="634" y="1380" width="208" height="66" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-19" value="终止" style="ellipse;shape=doubleEllipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2022.5" y="1780" width="57" height="57" as="geometry" />
+          <mxGeometry x="2015.5" y="1780" width="57" height="57" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;align=center;" edge="1" parent="1" source="YAbT_LrqAhuxKvHpi7vS-4" target="YAbT_LrqAhuxKvHpi7vS-5">
           <mxGeometry relative="1" as="geometry">
