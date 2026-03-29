@@ -50,7 +50,7 @@
           <mxGeometry x="1940" y="1870" width="216" height="49" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-16" value="活动7: 检查邮箱是否已注册" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="380" y="940" width="256" height="49" as="geometry" />
+          <mxGeometry x="450" y="840" width="256" height="49" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-17" value="决策4: 邮箱是否已存在?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="399" y="1090" width="218" height="218" as="geometry" />
