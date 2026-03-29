@@ -11,7 +11,7 @@
           <mxGeometry x="1730" y="80" width="568" height="2027" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-3" value="前端界面 (Client)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="970" y="125" width="486" height="1695" as="geometry" />
+          <mxGeometry x="1010" y="50" width="486" height="1695" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-4" value="开始" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1275" y="20" width="47" height="47" as="geometry" />
@@ -20,10 +20,10 @@
           <mxGeometry x="1194.5" y="150" width="208" height="66" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-6" value="活动3: 输入图片验证码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="419" width="224" height="49" as="geometry" />
+          <mxGeometry x="1110" y="570" width="224" height="49" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-7" value="活动5: 输入邮箱验证码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="721.5" width="224" height="49" as="geometry" />
+          <mxGeometry x="1160" y="976.5" width="224" height="49" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-8" value="活动2: 获取图片验证码 (checkCode)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1932" y="140" width="224" height="66" as="geometry" />
@@ -91,7 +91,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YAbT_LrqAhuxKvHpi7vS-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.36;exitY=1.01;entryX=0;entryY=0.3;rounded=0;" edge="1" parent="1" source="YAbT_LrqAhuxKvHpi7vS-10" target="YAbT_LrqAhuxKvHpi7vS-7">
+        <mxCell id="YAbT_LrqAhuxKvHpi7vS-26" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.36;exitY=1.01;entryX=0;entryY=0.3;rounded=0;" edge="1" parent="1" source="YAbT_LrqAhuxKvHpi7vS-10" target="YAbT_LrqAhuxKvHpi7vS-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="523" y="745" />
