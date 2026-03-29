@@ -41,7 +41,7 @@
           <mxGeometry x="1940" y="1050" width="208" height="66" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-13" value="决策3: 密码符合要求?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1943" y="1200" width="202" height="202" as="geometry" />
+          <mxGeometry x="1943" y="1178" width="202" height="202" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-14" value="活动8: MD5加密密码 (encodeByMD5)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1941.5" y="1490" width="205" height="66" as="geometry" />
