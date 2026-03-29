@@ -23,7 +23,7 @@
           <mxGeometry x="1110" y="570" width="224" height="49" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-7" value="活动5: 输入邮箱验证码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1141" y="950" width="224" height="49" as="geometry" />
+          <mxGeometry x="1141" y="1030" width="224" height="49" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-8" value="活动2: 获取图片验证码 (checkCode)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1932" y="140" width="224" height="66" as="geometry" />
@@ -93,9 +93,7 @@
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-26" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.36;exitY=1.01;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YAbT_LrqAhuxKvHpi7vS-10" target="YAbT_LrqAhuxKvHpi7vS-7">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1560" y="780" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-27" value="" style="curved=0;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YAbT_LrqAhuxKvHpi7vS-7" target="YAbT_LrqAhuxKvHpi7vS-11">
