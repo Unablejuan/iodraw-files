@@ -129,17 +129,15 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YAbT_LrqAhuxKvHpi7vS-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YAbT_LrqAhuxKvHpi7vS-14" target="YAbT_LrqAhuxKvHpi7vS-18">
+        <mxCell id="YAbT_LrqAhuxKvHpi7vS-33" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YAbT_LrqAhuxKvHpi7vS-14" target="YAbT_LrqAhuxKvHpi7vS-18">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="724" y="2114" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YAbT_LrqAhuxKvHpi7vS-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="YAbT_LrqAhuxKvHpi7vS-18" target="YAbT_LrqAhuxKvHpi7vS-15">
+        <mxCell id="YAbT_LrqAhuxKvHpi7vS-34" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="YAbT_LrqAhuxKvHpi7vS-18" target="YAbT_LrqAhuxKvHpi7vS-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1200" y="2230" />
+              <mxPoint x="650" y="2010" />
               <mxPoint x="724" y="2255" />
             </Array>
           </mxGeometry>
