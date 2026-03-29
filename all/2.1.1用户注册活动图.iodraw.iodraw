@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-1" value="持久层 (MySQL: user_info)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="608" y="1609" width="381" height="622" as="geometry" />
+          <mxGeometry x="608" y="1680" width="381" height="622" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-2" value="后端服务 (AccountController/EmailService)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="327" width="568" height="2027" as="geometry" />
