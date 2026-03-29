@@ -172,7 +172,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YAbT_LrqAhuxKvHpi7vS-38" value="否 (提示格式要求)" style="curved=0;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.79;exitY=0;entryX=0.77;entryY=1;rounded=0;" edge="1" parent="1" source="YAbT_LrqAhuxKvHpi7vS-13" target="YAbT_LrqAhuxKvHpi7vS-5">
+        <mxCell id="YAbT_LrqAhuxKvHpi7vS-38" value="否 (提示格式要求)" style="curved=0;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.77;entryY=1;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YAbT_LrqAhuxKvHpi7vS-13" target="YAbT_LrqAhuxKvHpi7vS-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="869" y="1309" />
