@@ -161,7 +161,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YAbT_LrqAhuxKvHpi7vS-36" value="否 (提示不正确)" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.78;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="YAbT_LrqAhuxKvHpi7vS-9" target="YAbT_LrqAhuxKvHpi7vS-8">
+        <mxCell id="YAbT_LrqAhuxKvHpi7vS-36" value="否 (提示不正确)" style="curved=0;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=1;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YAbT_LrqAhuxKvHpi7vS-9" target="YAbT_LrqAhuxKvHpi7vS-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2191" y="356" />
