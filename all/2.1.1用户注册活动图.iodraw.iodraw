@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-1" value="持久层 (MySQL: user_info)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1028" y="1680" width="381" height="622" as="geometry" />
+          <mxGeometry y="1446" width="381" height="622" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-2" value="后端服务 (AccountController/EmailService)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="430" y="350" width="568" height="2027" as="geometry" />
@@ -50,13 +50,13 @@
           <mxGeometry x="616" y="2280" width="216" height="49" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-16" value="活动7: 检查邮箱是否已注册" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1063" y="1634" width="256" height="49" as="geometry" />
+          <mxGeometry x="35" y="1400" width="256" height="49" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-17" value="决策4: 邮箱是否已存在?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1136" y="1732" width="218" height="218" as="geometry" />
+          <mxGeometry x="108" y="1498" width="218" height="218" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-18" value="活动9: 创建用户记录 (insert)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1097" y="2139" width="208" height="66" as="geometry" />
+          <mxGeometry x="69" y="1905" width="208" height="66" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-19" value="终止" style="ellipse;shape=doubleEllipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="695" y="2404" width="57" height="57" as="geometry" />
@@ -141,7 +141,7 @@
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.3;entryY=0;rounded=0;" edge="1" parent="1" source="YAbT_LrqAhuxKvHpi7vS-16" target="YAbT_LrqAhuxKvHpi7vS-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1190" y="1707" />
+              <mxPoint x="162" y="1473" />
             </Array>
           </mxGeometry>
         </mxCell>
