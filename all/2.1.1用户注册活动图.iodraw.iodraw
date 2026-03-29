@@ -32,7 +32,7 @@
           <mxGeometry x="1900" y="110" width="218" height="218" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-10" value="活动4: 发送邮箱验证码 (sendEmailCode)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="370" width="224" height="66" as="geometry" />
+          <mxGeometry x="1780" y="552" width="224" height="66" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-11" value="决策2: 邮箱验证码正确?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1944" y="678" width="218" height="218" as="geometry" />
