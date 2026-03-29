@@ -50,10 +50,10 @@
           <mxGeometry x="1940" y="1870" width="216" height="49" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-16" value="活动7: 检查邮箱是否已注册" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="600" y="890" width="256" height="49" as="geometry" />
+          <mxGeometry x="610" y="951" width="256" height="49" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-17" value="决策4: 邮箱是否已存在?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="360" y="840" width="218" height="218" as="geometry" />
+          <mxGeometry x="350" y="951" width="218" height="218" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-18" value="活动9: 创建用户记录 (insert)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="439" y="1425" width="208" height="66" as="geometry" />
@@ -117,7 +117,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YAbT_LrqAhuxKvHpi7vS-31" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YAbT_LrqAhuxKvHpi7vS-16" target="YAbT_LrqAhuxKvHpi7vS-17">
+        <mxCell id="YAbT_LrqAhuxKvHpi7vS-31" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YAbT_LrqAhuxKvHpi7vS-16" target="YAbT_LrqAhuxKvHpi7vS-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
