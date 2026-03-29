@@ -26,10 +26,10 @@
           <mxGeometry x="980" y="806" width="224" height="49" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-8" value="活动2: 获取图片验证码 (checkCode)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2079" y="392" width="224" height="66" as="geometry" />
+          <mxGeometry x="1932" y="140" width="224" height="66" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-9" value="决策1: 图片验证码正确?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1750" y="280" width="218" height="218" as="geometry" />
+          <mxGeometry x="1859.5" y="250" width="218" height="218" as="geometry" />
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-10" value="活动4: 发送邮箱验证码 (sendEmailCode)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1780" y="552" width="224" height="66" as="geometry" />
