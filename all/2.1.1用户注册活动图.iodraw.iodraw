@@ -90,11 +90,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YAbT_LrqAhuxKvHpi7vS-25" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.44;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="YAbT_LrqAhuxKvHpi7vS-9" target="YAbT_LrqAhuxKvHpi7vS-10">
+        <mxCell id="YAbT_LrqAhuxKvHpi7vS-25" value="是" style="curved=0;startArrow=none;endArrow=block;exitX=0.44;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="YAbT_LrqAhuxKvHpi7vS-9" target="YAbT_LrqAhuxKvHpi7vS-10">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="587" y="606" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YAbT_LrqAhuxKvHpi7vS-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.36;exitY=1.01;entryX=0;entryY=0.3;rounded=0;" edge="1" parent="1" source="YAbT_LrqAhuxKvHpi7vS-10" target="YAbT_LrqAhuxKvHpi7vS-7">
