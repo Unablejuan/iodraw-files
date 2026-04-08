@@ -26,7 +26,7 @@
           <mxGeometry x="480" y="610" width="600" height="100" as="geometry" />
         </mxCell>
         <mxCell id="p2cmKxU4LN79R2HYmY_w-8" value="Controller" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="p2cmKxU4LN79R2HYmY_w-7">
-          <mxGeometry x="20" y="40" width="130" height="50" as="geometry" />
+          <mxGeometry x="20" y="60" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="p2cmKxU4LN79R2HYmY_w-9" value="RESTful API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="p2cmKxU4LN79R2HYmY_w-7">
           <mxGeometry x="170" y="40" width="130" height="50" as="geometry" />
