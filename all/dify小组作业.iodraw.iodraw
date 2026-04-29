@@ -189,6 +189,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="810" y="1620" as="offset" />
             <mxPoint x="530" y="710" as="point" />
+            <Array as="points">
+              <mxPoint x="1400" y="1110" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bTjfJpJ451LfvrRfz-Kg-59" value="是" style="endArrow=classic;html=1;strokeWidth=2" edge="1" parent="1" source="bTjfJpJ451LfvrRfz-Kg-24" target="bTjfJpJ451LfvrRfz-Kg-25">
