@@ -65,7 +65,7 @@
           <mxGeometry x="320" y="1190" width="200" height="45" as="geometry" />
         </mxCell>
         <mxCell id="bTjfJpJ451LfvrRfz-Kg-221" value="主观题：语义相似度+关键词判分" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3e5f5;strokeColor=#7b1fa2;fontSize=11" vertex="1" parent="1">
-          <mxGeometry x="560" y="1190" width="200" height="45" as="geometry" />
+          <mxGeometry x="620" y="1196" width="200" height="45" as="geometry" />
         </mxCell>
         <mxCell id="bTjfJpJ451LfvrRfz-Kg-222" value="判卷置信度是否达标？" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff3e0;strokeColor=#f57c00;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="480" y="1260" width="200" height="70" as="geometry" />
@@ -216,6 +216,9 @@
         <mxCell id="bTjfJpJ451LfvrRfz-Kg-266" value="" style="endArrow=classic;html=1;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bTjfJpJ451LfvrRfz-Kg-228" target="bTjfJpJ451LfvrRfz-Kg-229">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="580" y="1725" as="point" />
+            <Array as="points">
+              <mxPoint x="380" y="1680" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
