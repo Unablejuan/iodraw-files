@@ -120,11 +120,9 @@
         <mxCell id="bTjfJpJ451LfvrRfz-Kg-238" value="" style="endArrow=classic;html=1;strokeWidth=2" edge="1" parent="1" source="bTjfJpJ451LfvrRfz-Kg-207" target="bTjfJpJ451LfvrRfz-Kg-208">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bTjfJpJ451LfvrRfz-Kg-239" value="否" style="endArrow=classic;html=1;strokeWidth=2;labelPosition=left" edge="1" parent="1">
+        <mxCell id="bTjfJpJ451LfvrRfz-Kg-239" value="否" style="endArrow=classic;html=1;strokeWidth=2;labelPosition=left;exitX=0;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="bTjfJpJ451LfvrRfz-Kg-208" target="bTjfJpJ451LfvrRfz-Kg-204">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="205" as="point" />
-            <mxPoint x="520.0032077764278" y="444.5868772782503" as="sourcePoint" />
-            <mxPoint x="122.72166666666652" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bTjfJpJ451LfvrRfz-Kg-240" value="是" style="endArrow=classic;html=1;strokeWidth=2" edge="1" parent="1" source="bTjfJpJ451LfvrRfz-Kg-208" target="bTjfJpJ451LfvrRfz-Kg-209">
