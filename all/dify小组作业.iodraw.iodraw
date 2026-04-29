@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Dify面试题自动判卷流程" id="u3kywfG84joWLGfybo5E">
-    <mxGraphModel dx="3448" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3695" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -259,7 +259,7 @@
           <mxGeometry x="406.4516129032258" y="67.70833333333333" width="90.32258064516128" height="83.33333333333333" as="geometry" />
         </mxCell>
         <mxCell id="fb3c3NNrosn3iOSTo-vQ-12" value="标准答案评分" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12" vertex="1" parent="fb3c3NNrosn3iOSTo-vQ-8">
-          <mxGeometry x="541.9354838709677" y="15.625" width="126.4516129032258" height="52.083333333333336" as="geometry" />
+          <mxGeometry x="529.9954838709676" y="15.625" width="126.4516129032258" height="52.083333333333336" as="geometry" />
         </mxCell>
         <mxCell id="fb3c3NNrosn3iOSTo-vQ-13" value="直接评估" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12" vertex="1" parent="fb3c3NNrosn3iOSTo-vQ-8">
           <mxGeometry x="480.00161290322575" y="159.99833333333333" width="117.41935483870968" height="52.083333333333336" as="geometry" />
@@ -292,7 +292,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fb3c3NNrosn3iOSTo-vQ-23" value="评分汇总" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="-450" y="762.92" width="130" height="50" as="geometry" />
+          <mxGeometry x="-465" y="765" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fb3c3NNrosn3iOSTo-vQ-24" value="报告生成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="-450" y="850" width="130" height="50" as="geometry" />
