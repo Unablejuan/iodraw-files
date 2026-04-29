@@ -235,16 +235,16 @@
           <mxGeometry x="-1090" y="430" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fb3c3NNrosn3iOSTo-vQ-4" value="文档提取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="-770" y="389" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1350" y="445" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fb3c3NNrosn3iOSTo-vQ-5" value="答案拆分" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="-520" y="389" width="130" height="50" as="geometry" />
+          <mxGeometry x="-1355" y="540" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fb3c3NNrosn3iOSTo-vQ-6" value="图片答案识别" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="-910" y="715" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fb3c3NNrosn3iOSTo-vQ-7" value="JSON解析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="-480" y="640" width="120" height="50" as="geometry" />
+          <mxGeometry x="-530" y="660" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fb3c3NNrosn3iOSTo-vQ-8" value="评分迭代（遍历每道题）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#999999;dashed=1;dashPattern=8 4;fontSize=12;fontStyle=1;fontColor=#999999;container=1;collapsible=0;verticalAlign=top;align=left;spacingLeft=10;spacingTop=5;" vertex="1" parent="1">
           <mxGeometry x="-1540" y="840" width="1240" height="240" as="geometry" />
