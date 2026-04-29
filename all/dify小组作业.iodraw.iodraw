@@ -292,10 +292,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fb3c3NNrosn3iOSTo-vQ-23" value="评分汇总" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="-250" y="1146" width="130" height="50" as="geometry" />
+          <mxGeometry x="-260" y="920" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fb3c3NNrosn3iOSTo-vQ-24" value="报告生成" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="-1280" y="1180" width="130" height="50" as="geometry" />
+          <mxGeometry x="-220" y="1260" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fb3c3NNrosn3iOSTo-vQ-25" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#f8cecc;strokeColor=#b85450;fontSize=13;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-1060" y="1180" width="100" height="50" as="geometry" />
