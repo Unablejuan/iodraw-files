@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Dify面试题自动判卷流程" id="u3kywfG84joWLGfybo5E">
-    <mxGraphModel dx="2442" dy="1646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2605" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,7 +14,7 @@
           <mxGeometry x="430" y="210" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bTjfJpJ451LfvrRfz-Kg-4" value="提示错误，返回重新上传" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffebee;strokeColor=#d32f2f;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="150" y="300" width="220" height="60" as="geometry" />
+          <mxGeometry x="-50" y="380" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bTjfJpJ451LfvrRfz-Kg-5" value="内容解析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e9;strokeColor=#388e3c;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="420" y="320" width="220" height="60" as="geometry" />
