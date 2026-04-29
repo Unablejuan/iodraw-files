@@ -189,6 +189,10 @@
         <mxCell id="bTjfJpJ451LfvrRfz-Kg-259" value="否（继续下一题）" style="endArrow=classic;html=1;strokeWidth=2;labelPosition=right;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="bTjfJpJ451LfvrRfz-Kg-224" target="bTjfJpJ451LfvrRfz-Kg-210">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="690" y="635" as="point" />
+            <Array as="points">
+              <mxPoint x="1050" y="1375" />
+              <mxPoint x="1050" y="635" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bTjfJpJ451LfvrRfz-Kg-260" value="是" style="endArrow=classic;html=1;strokeWidth=2" edge="1" parent="1" source="bTjfJpJ451LfvrRfz-Kg-224" target="bTjfJpJ451LfvrRfz-Kg-225">
