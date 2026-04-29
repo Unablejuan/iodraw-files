@@ -253,16 +253,16 @@
           <mxGeometry x="100" y="80" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fb3c3NNrosn3iOSTo-vQ-10" value="知识库检索" style="shape=cylinder3;whiteSpace=wrap;html=1;size=10;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11" vertex="1" parent="fb3c3NNrosn3iOSTo-vQ-8">
-          <mxGeometry x="250" y="80" width="140" height="50" as="geometry" />
+          <mxGeometry x="270" y="80" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fb3c3NNrosn3iOSTo-vQ-11" value="检索判断" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=11" vertex="1" parent="fb3c3NNrosn3iOSTo-vQ-8">
-          <mxGeometry x="470" y="65" width="100" height="80" as="geometry" />
+          <mxGeometry x="450" y="65" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fb3c3NNrosn3iOSTo-vQ-12" value="标准答案评分" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12" vertex="1" parent="fb3c3NNrosn3iOSTo-vQ-8">
-          <mxGeometry x="670" y="20" width="140" height="50" as="geometry" />
+          <mxGeometry x="600" y="15" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fb3c3NNrosn3iOSTo-vQ-13" value="直接评估" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12" vertex="1" parent="fb3c3NNrosn3iOSTo-vQ-8">
-          <mxGeometry x="670" y="145" width="130" height="50" as="geometry" />
+          <mxGeometry x="605" y="137" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fb3c3NNrosn3iOSTo-vQ-14" value="评分结果合并" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=12" vertex="1" parent="fb3c3NNrosn3iOSTo-vQ-8">
           <mxGeometry x="890" y="80" width="140" height="50" as="geometry" />
