@@ -62,7 +62,7 @@
           <mxGeometry x="470" y="1110" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bTjfJpJ451LfvrRfz-Kg-220" value="客观题：精确匹配判分" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3e5f5;strokeColor=#7b1fa2;fontSize=11" vertex="1" parent="1">
-          <mxGeometry x="320" y="1190" width="200" height="45" as="geometry" />
+          <mxGeometry x="330" y="1196" width="200" height="45" as="geometry" />
         </mxCell>
         <mxCell id="bTjfJpJ451LfvrRfz-Kg-221" value="主观题：语义相似度+关键词判分" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f3e5f5;strokeColor=#7b1fa2;fontSize=11" vertex="1" parent="1">
           <mxGeometry x="620" y="1196" width="200" height="45" as="geometry" />
@@ -163,7 +163,7 @@
         <mxCell id="bTjfJpJ451LfvrRfz-Kg-251" value="" style="endArrow=classic;html=1;strokeWidth=2" edge="1" parent="1" source="bTjfJpJ451LfvrRfz-Kg-218" target="bTjfJpJ451LfvrRfz-Kg-219">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bTjfJpJ451LfvrRfz-Kg-252" value="" style="endArrow=classic;html=1;strokeWidth=2;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bTjfJpJ451LfvrRfz-Kg-219" target="bTjfJpJ451LfvrRfz-Kg-220">
+        <mxCell id="bTjfJpJ451LfvrRfz-Kg-252" value="" style="endArrow=classic;html=1;strokeWidth=2;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.46;entryY=-0.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bTjfJpJ451LfvrRfz-Kg-219" target="bTjfJpJ451LfvrRfz-Kg-220">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bTjfJpJ451LfvrRfz-Kg-253" value="" style="endArrow=classic;html=1;strokeWidth=2;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bTjfJpJ451LfvrRfz-Kg-219" target="bTjfJpJ451LfvrRfz-Kg-221">
