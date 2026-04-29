@@ -226,7 +226,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fb3c3NNrosn3iOSTo-vQ-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=13;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-1090" y="220" width="120" height="50" as="geometry" />
+          <mxGeometry x="-1140" y="260" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fb3c3NNrosn3iOSTo-vQ-2" value="文件类型检测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="-1150" y="350" width="140" height="50" as="geometry" />
@@ -241,7 +241,7 @@
           <mxGeometry x="-1355" y="540" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fb3c3NNrosn3iOSTo-vQ-6" value="图片答案识别" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="-950" y="630" width="140" height="50" as="geometry" />
+          <mxGeometry x="-1150" y="630" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fb3c3NNrosn3iOSTo-vQ-7" value="JSON解析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="-1350" y="630" width="120" height="50" as="geometry" />
