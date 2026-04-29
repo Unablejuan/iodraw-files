@@ -177,6 +177,9 @@
         <mxCell id="bTjfJpJ451LfvrRfz-Kg-55" value="否" style="endArrow=classic;html=1;strokeWidth=2" edge="1" parent="1" source="bTjfJpJ451LfvrRfz-Kg-22" target="bTjfJpJ451LfvrRfz-Kg-15">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="330" y="1440" as="offset" />
+            <Array as="points">
+              <mxPoint x="240" y="1510" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bTjfJpJ451LfvrRfz-Kg-56" value="是" style="endArrow=classic;html=1;strokeWidth=2" edge="1" parent="1" source="bTjfJpJ451LfvrRfz-Kg-22" target="bTjfJpJ451LfvrRfz-Kg-23">
@@ -220,6 +223,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="1180" as="offset" />
             <mxPoint x="530" y="1720" as="point" />
+            <Array as="points">
+              <mxPoint x="170" y="1710" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bTjfJpJ451LfvrRfz-Kg-66" value="" style="endArrow=classic;html=1;strokeWidth=2" edge="1" parent="1" source="bTjfJpJ451LfvrRfz-Kg-4" target="bTjfJpJ451LfvrRfz-Kg-2">
